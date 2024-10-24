@@ -38,3 +38,5 @@ O projeto envolve a criação de uma classe estática chamada ConversorUnidades,
 # ✒ Autor
 
 - Jefferson Oliveira
+
+https://github.com/user-attachments/files/17500397/Diagrama.em.branco.pdf
